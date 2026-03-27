@@ -33,4 +33,3 @@ Replace the first row with your own contribution.
 | Mar 9 | [link](https://en.wikipedia.org/w/index.php?title=List_of_equipment_of_the_United_States_Army&oldid=1342561822)|  Wikipedia edit | I added the RQ-7B Shadow to the Unmanned Aerial Vehicles section | 
 | Mar 20 | [link](https://en.wikipedia.org/w/index.php?title=List_of_equipment_of_the_Republic_of_Korea_Army&oldid=1344364500)|  Wikipedia edit | I updated equipment counts to the Surface-to-Surface section that had missing figures | 
 
-|  | [link]()|   |  | 
