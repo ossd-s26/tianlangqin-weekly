@@ -32,4 +32,4 @@ Replace the first row with your own contribution.
 | Mar 7 | [link](https://en.wikipedia.org/w/index.php?title=Italian_frigate_Alpino_(F_594)&oldid=1342124891)|  Wikipedia edit | I fixed the Armaments section that contained conflicting information | 
 | Mar 9 | [link](https://en.wikipedia.org/w/index.php?title=List_of_equipment_of_the_United_States_Army&oldid=1342561822)|  Wikipedia edit | I added the RQ-7B Shadow to the Unmanned Aerial Vehicles section | 
 | Mar 20 | [link](https://en.wikipedia.org/w/index.php?title=List_of_equipment_of_the_Republic_of_Korea_Army&oldid=1344364500)|  Wikipedia edit | I updated equipment counts to the Surface-to-Surface section that had missing figures | 
-
+| Apr 6 |[link](https://en.wikipedia.org/w/index.php?title=Type_052D_destroyer&oldid=1347428058) | Wikipedia edit | I updated the details about the newer ships in the ships of class section |
